@@ -87,7 +87,7 @@ while condition_check == True:
                 sat_database.pop(userDel, 0)              
                 continue
             
-            elif userDel == "back": 
+            elif userDel == "back":
                 print(" ") 
                 continue     
             
